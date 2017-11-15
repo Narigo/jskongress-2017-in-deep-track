@@ -6,15 +6,15 @@
 
 ## Tuesday
 
-Time  | Room 1                                               | Room 2                                | Room 3                                      | Room 4                                         |
-------+------------------------------------------------------+---------------------------------------+---------------------------------------------|------------------------------------------------+
-11:30 | JavaScript Performance Tooling (Jaroslav & Benedikt) | Development workflow and rebasing (?) |                                             |                                                |
-12:00 | Future of Rollup JS (Lukas)                          | Play with git (Carsten)               |                                             | Solutions with RxJS (Adrian)                   |
-12:30 | Web Animations API + book signing (Rachel)           | React Native case study (Adam)        | What can Webpack learn form Rollup (Tobias) |                                                |
-13:00 | Lunch                                                |                                       |                                             |                                                |
-14:00 | TC39 Inclusion and feedback (Daniel)                 | WebGPU WASM integration (Nidin)       | Living your style (Kathrin)                 | Brainstorming problems webpack values (Tobias) |
-14:30 | JS operators `|>` and `?.` (Daniel)                  | Programmable Money (Florian)          | Aspect oriented programming: JS (?)         |                                                |
-15:00 | V8 parses your JS up to 50% better (Marja)           | GraphQL REST in peace? (Robert)       |                                             |                                                |
+| Time  | Room 1                                               | Room 2                                | Room 3                                      | Room 4                                         |
+| :---  | :---                                                 | :---                                  | :---                                        | :---                                           |
+| 11:30 | JavaScript Performance Tooling (Jaroslav & Benedikt) | Development workflow and rebasing (?) |                                             |                                                |
+| 12:00 | Future of Rollup JS (Lukas)                          | Play with git (Carsten)               |                                             | Solutions with RxJS (Adrian)                   |
+| 12:30 | Web Animations API + book signing (Rachel)           | React Native case study (Adam)        | What can Webpack learn form Rollup (Tobias) |                                                |
+| 13:00 | Lunch                                                |                                       |                                             |                                                |
+| 14:00 | TC39 Inclusion and feedback (Daniel)                 | WebGPU WASM integration (Nidin)       | Living your style (Kathrin)                 | Brainstorming problems webpack values (Tobias) |
+| 14:30 | JS operators `|>` and `?.` (Daniel)                  | Programmable Money (Florian)          | Aspect oriented programming: JS (?)         |                                                |
+| 15:00 | V8 parses your JS up to 50% better (Marja)           | GraphQL REST in peace? (Robert)       |                                             |                                                |
 
 ## Notes Monday
 
